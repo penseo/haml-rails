@@ -13,8 +13,8 @@ Gem::Specification.new do |s|
   s.licenses    = ["MIT"]
 
   s.rubyforge_project         = "haml-rails"
-  s.required_rubygems_version = ">= 3.0.0"
-  s.required_ruby_version     = ">= 2.3.0"
+  s.required_rubygems_version = ">= 2.7"
+  s.required_ruby_version     = ">= 2.3"
 
   s.add_dependency "haml",          [">= 4.0.6", "< 6.0"]
   s.add_dependency "activesupport", [">= 5.1"]
